@@ -1,0 +1,26 @@
+.input {
+    height: 15px;
+    width: 350px;
+}
+
+.background {
+    background-color: rgb(205, 205, 198);
+    margin: 10px 150px;
+}
+.background2 {
+    background-color: rgb(31, 238, 245);
+    height:150px;
+    padding: 5px;
+    margin: 10px 150px;
+    
+}
+.divler {
+    margin-left: 145px;
+    margin-right: auto;
+}
+.card {
+width: 28%;
+float: left;
+padding: 5;
+margin: 0px 5px;
+}
